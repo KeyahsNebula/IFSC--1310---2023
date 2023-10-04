@@ -87,6 +87,6 @@ header.primary nav ul li a{
   transition: .5s;
 }
 
-header.primary mav ul li a:hover{
-  background-color: rgba(230, 20, 20, 0.8);
+header.primary nav ul li a:hover{
+  background-color: rgba(125, 11, 122, 0.8);
 }
